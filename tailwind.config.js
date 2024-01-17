@@ -20,6 +20,7 @@ module.exports = {
         "project-pattern2": "url('../images/project-img2.png')",
         "project-pattern3": "url('../images/project-img3.png')",
         "project-pattern": "url('../images/project-img.png')",
+        "bg-home": "url('../images/BGhome.svg')",
       },
     },
     fontFamily: {
