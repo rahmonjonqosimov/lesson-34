@@ -12,6 +12,8 @@ module.exports = {
         colorSixth: "#525560",
         colorSeventh: "#EBF0F9",
         colorEighth: "#E5E5E5",
+        color: "#1D2130",
+      
       },
       backgroundImage: {
         "bx-x": "url('/images/bx-x.svg')",
