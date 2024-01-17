@@ -1193,6 +1193,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-colorSeventh {
+  --tw-bg-opacity: 1;
+  background-color: rgb(235 240 249 / var(--tw-bg-opacity));
+}
+
 .bg-bg-home {
   background-image: url('../images/BGhome.svg');
 }
@@ -1962,6 +1967,10 @@ video {
 
   .lg\:w-\[600px\] {
     width: 600px;
+  }
+
+  .lg\:max-w-\[520px\] {
+    max-width: 520px;
   }
 
   .lg\:flex-row {
