@@ -16,6 +16,10 @@ module.exports = {
       backgroundImage: {
         "bx-x": "url('/images/bx-x.svg')",
         "bx-menu": "url('/images/bx-menu.svg')",
+        "project-pattern1": "url('../images/project-img1.png')",
+        "project-pattern2": "url('../images/project-img2.png')",
+        "project-pattern3": "url('../images/project-img3.png')",
+        "project-pattern": "url('../images/project-img.png')",
       },
     },
     fontFamily: {
