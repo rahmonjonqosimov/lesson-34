@@ -1,9 +1,55 @@
 .owl-next {
   background: transparent !important;
+  position: relative;
+  right: -200px;
+  top: 0px;
+  margin-top: 0;
 }
 .owl-nav {
-  position: absolute;
-  right: 0;
-  bottom: 20px;
-  z-index: 1;
+  margin: 0 !important;
+  width: 100% !important;
+  margin-top: -30px;
+}
+.owl-stage {
+  height: 80px !important;
+}
+.owl-stage-outer {
+  height: 100px !important;
+}
+@media (min-width: 800px) {
+  .owl-next {
+    right: -300px;
+    top: -70px;
+  }
+}
+@media (max-width: 800px) {
+  .owl-next {
+    right: -200px;
+    width: 40px !important;
+  }
+}
+@media (max-width: 520px) {
+  h1 {
+    font-size: 28px !important;
+    margin: 0 !important;
+  }
+  p {
+    font-size: 13px !important;
+  }
+  .owl-stage {
+    height: 230px !important;
+  }
+  .owl-stage-outer {
+    height: 230px !important;
+  }
+  .owl-next {
+    bottom: 0;
+    right: -120px;
+  }
+}
+@media (max-width: 480px) {
+  .owl-next {
+    bottom: 0;
+    right: -100px;
+  }
 }
