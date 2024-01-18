@@ -839,12 +839,12 @@ video {
   margin-top: 65px;
 }
 
-.mt-\[96px\] {
-  margin-top: 96px;
-}
-
 .mt-\[92px\] {
   margin-top: 92px;
+}
+
+.mt-\[96px\] {
+  margin-top: 96px;
 }
 
 .block {
@@ -1899,10 +1899,6 @@ video {
 
   .vr\:gap-0 {
     gap: 0px;
-  }
-
-  .vr\:gap-5 {
-    gap: 1.25rem;
   }
 
   .vr\:gap-7 {
