@@ -12,6 +12,8 @@ module.exports = {
         colorSixth: "#525560",
         colorSeventh: "#EBF0F9",
         colorEighth: "#E5E5E5",
+        color: "#1D2130",
+      
       },
       backgroundImage: {
         "bx-x": "url('/images/bx-x.svg')",
@@ -20,6 +22,7 @@ module.exports = {
         "project-pattern2": "url('../images/project-img2.png')",
         "project-pattern3": "url('../images/project-img3.png')",
         "project-pattern": "url('../images/project-img.png')",
+        "bg-home": "url('../images/BGhome.svg')",
       },
     },
     fontFamily: {
